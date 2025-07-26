@@ -36,7 +36,7 @@ const projects = [
     img: "AI.png"
   },
   {
-    title: "Project Six",
+    title: "Skill Swap",
     desc: "Real-time chat app",
     url: "https://skillswap-g8um548wvrdy8quzmezfcj.streamlit.app/",
     img: "skill.png"
