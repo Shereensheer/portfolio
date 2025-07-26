@@ -11,15 +11,15 @@ export const About = () => (
       <div className="bg-white/5 backdrop-blur-sm p-4 sm:p-6 rounded-xl shadow-lg transition duration-300 hover:shadow-cyan-500/30 text-gray-300 text-left text-sm sm:text-base leading-relaxed space-y-4">
         
         <p>
-          I'm <strong>Shereen Ahmed</strong>, an Agentic and Robotic AI Engineer, Full-Stack Developer, and senior student at <strong>GIAIC</strong>, currently pursuing Agentic AI Software Engineering.
+          Im <strong>Shereen Ahmed</strong>an Agentic and Robotic AI Engineer Full-Stack Developer and senior student at <strong>GIAIC</strong > currently pursuing Agentic AI Software Engineering.
         </p>
         
         <p>
-          I specialize in building intelligent, responsive, and scalable web applications using Python, TypeScript, Java, Next.js, Tailwind CSS, HTML, and CSS.
+          I specialize in building intelligent responsive and scalable web applications using Python TypeScript Java Next.js Tailwind CSS HTML and CSS.
         </p>
         
         <p>
-          As a creative UI/UX Designer, I focus on delivering clean, intuitive, and user-friendly interfaces that enhance digital experiences.
+          As a creative UI/UX Designer I focus on delivering clean intuitive and user-friendly interfaces that enhance digital experiences.
         </p>
         
         <p>
@@ -27,11 +27,11 @@ export const About = () => (
         </p>
         
         <p>
-          I'm passionate about continuous learning and applying skills to real-world challenges. I have participated in a hackathon, gaining valuable experience in collaboration and problem-solving.
+          Im passionate about continuous learning and applying skills to real-world challenges. I have participated in a hackathon, gaining valuable experience in collaboration and problem-solving.
         </p>
         
         <p>
-          Currently, I’m working on bridging design, development, and AI to create innovative, human-aligned digital solutions.
+          Currently, I’m working on bridging design development and AI to create innovative human-aligned digital solutions.
         </p>
       
       </div>
