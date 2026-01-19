@@ -18,14 +18,7 @@ export const Navbar = () => {
           <Link href="#about" className="hover:text-blue-400">About</Link>
           <Link href="#projects" className="hover:text-blue-400">Projects</Link>
           <Link href="#contact" className="hover:text-blue-400">Contact</Link>
-          <Link
-            href="/CV.pdf"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="hover:text-blue-400"
-          >
-            CV
-          </Link>
+         
         </div>
 
         {/* Mobile Toggle Icon */}
